@@ -3,7 +3,7 @@ Http helper for static files
 
 ## How to use
 ```
-go get github.com/vladimirok5959/golang-server-sessions
+go get github.com/vladimirok5959/golang-server-static
 ```
 ```
 package main
