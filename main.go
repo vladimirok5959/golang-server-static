@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"golang-server-static/static"
+	"github.com/vladimirok5959/golang-server-static/static"
 )
 
 func main() {
